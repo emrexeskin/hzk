@@ -1,0 +1,29 @@
+@keyframes slide-in {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+@keyframes slide-out{
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.card-text-group{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.card-text-group h3 {
+    animation: slide-in 700ms ease-out;
+  }
+.card-text-group p {
+    animation: slide-out 700ms ease-out;
+  }

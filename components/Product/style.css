@@ -1,0 +1,14 @@
+.image, .card-text{
+    transition: 250ms all ease-in-out;
+}
+
+.card:hover .image{
+    filter: brightness(0.6);
+    transition: 250ms all ease-in-out;
+}
+
+.card:hover .card-text{
+    transform: scale(1.2);
+    transition: 250ms all ease-in-out;
+    opacity: 1;
+}

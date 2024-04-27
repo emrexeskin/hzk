@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "imageLink": "apple.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Egg",
+        "imageLink": "egg.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Lavender",
+        "imageLink": "lavender.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Orange",
+        "imageLink": "orange.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Poppy",
+        "imageLink": "poppy.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rose",
+        "imageLink": "rose.jpeg"
+    }
+]
